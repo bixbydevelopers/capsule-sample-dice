@@ -1,0 +1,3 @@
+integer (NumDice) {
+  description (The number of dice to throw.)
+}

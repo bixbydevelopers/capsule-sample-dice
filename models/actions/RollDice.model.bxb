@@ -1,0 +1,17 @@
+action (RollDice) {
+  collect{
+    input (numDice) {
+      type (NumDice)
+      min (Required)
+      max (One)
+    }
+
+    input (numSides) {
+      type (NumSides)
+      min (Required)
+      max (One)
+    }
+  } 
+  output (RollResult)
+  type (Calculation)
+}

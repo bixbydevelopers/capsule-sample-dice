@@ -1,0 +1,14 @@
+structure (RollResult) {
+  description (The result object produced by the RollDice action)
+  property (sum) {
+    type (Sum)
+    min (Required)
+    max (One)
+  }
+  property (roll) {
+    description (The list of results for each dice roll.)
+    type (Roll)
+    min (Required)
+    max (Many)
+  }      
+}

@@ -1,0 +1,9 @@
+capsule {
+  id (example.dice)
+  format (3)
+  version (0.1.1)
+  targets {
+    target (bixby-mobile-en-US)
+    target (bixby-mobile-ko-KR){enabled (false)}
+  }
+}
