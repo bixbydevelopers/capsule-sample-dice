@@ -1,5 +1,5 @@
 structure (RollResult) {
-  description (The result object produced by the RollDice action)
+  description (The result object produced by the RollDice action.)
   property (sum) {
     type (Sum)
     min (Required)
