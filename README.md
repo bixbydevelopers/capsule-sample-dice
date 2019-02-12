@@ -12,7 +12,7 @@ This capsule is the companion code to the Bixby [Quick Start](https://bixbydevel
 
 ## Additional Resources
 
-### Your Souce for Everything Bixby
+### Your Source for Everything Bixby
 * [Bixby Developer Center](http://bixbydevelopers.com) - Everything you need to get started with Bixby Development!
 
 ### Guides & Best Practices
