@@ -1,17 +1,17 @@
 action (RollDice) {
   collect{
     input (numDice) {
-      type (NumDice)
+      type (NumDiceConcept)
       min (Required)
       max (One)
     }
 
     input (numSides) {
-      type (NumSides)
+      type (NumSidesConcept)
       min (Required)
       max (One)
     }
   } 
-  output (RollResult)
+  output (RollResultConcept)
   type (Calculation)
 }
