@@ -7,7 +7,6 @@ capsule-info {
   }  
   display-name (Dice Capsule)
   developer-name (Bixby)
-  image-asset (/images/dice-icon.png)
   icon-asset (/images/dice-icon.png)
   description ("Dice Capsule")
   website-url (https://example.com/)
