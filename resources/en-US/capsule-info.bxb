@@ -1,0 +1,15 @@
+capsule-info {
+  dispatch-name (dice)
+  search-keywords{
+    keyword (dice)
+    keyword (die)
+    keyword (game)
+  }  
+  display-name (Dice Capsule)
+  developer-name (Bixby)
+  image-asset (/images/dice-icon.png)
+  icon-asset (/images/dice-icon.png)
+  description ("Dice Capsule")
+  website-url (https://example.com/)
+  terms-url (https://example.com/terms-of-use/)
+}
