@@ -1,8 +1,0 @@
-endpoints {
-   action-endpoints {
-     action-endpoint (RollDice) {
-       accepted-inputs (numDice, numSides)
-       local-endpoint ("RollDice.js")
-     }
-   }
-}
