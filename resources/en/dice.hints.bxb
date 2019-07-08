@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance ("[g:RollResultConcept] Roll dice")
+    utterance ("[g:RollResultConcept] Roll some dice")
+    utterance ("[g:RollResultConcept] Roll a dice for me")
+  }
+}

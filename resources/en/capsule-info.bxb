@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (Dice Sample Capsule)
+  dispatch-name (Dice Sample Capsule)
+  developer-name (Bixby Sample Capsules)
+  icon-asset (/images/bixby-logo.png)
+  description ("A sample capsule to roll dice.")
+  website-url (https://bixbydevelopers.com/dev/docs/sample-capsules/samples)
+  search-keywords {
+    keyword (sample capsule)
+    keyword (dice)
+  }
+}
