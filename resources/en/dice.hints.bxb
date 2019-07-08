@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (roll some dice)
+    utterance (throw dice)
+    utterance (play a dice game)
+  }
+}
