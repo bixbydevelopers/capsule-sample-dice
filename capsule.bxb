@@ -10,7 +10,5 @@ capsule {
     concepts-inherit-super-type-features
     modern-prompt-rejection
     support-halt-effect-in-computed-inputs
-    no-filtering-with-validation
-    modern-default-view-behavior
   }
 }
