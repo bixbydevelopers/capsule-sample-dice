@@ -1,7 +1,13 @@
 hints {
-  uncategorized {
-    utterance (roll some dice)
-    utterance (throw dice)
-    utterance (play a dice game)
-  }
+    uncategorized {
+        hint ("In Dice, roll some dice") {
+          preferred-hint ("Roll some dice")
+        }
+        hint ("With Dice, throw dice") {
+          preferred-hint ("Throw dice")
+        }
+        hint ("In Dice, play a dice game") {
+          preferred-hint ("Play a dice game")
+        }
+    }
 }

@@ -1,6 +1,6 @@
 capsule-info {
   display-name (Dice Sample Capsule)
-  dispatch-name (Dice Sample Capsule)
+  dispatch-name (Dice)
   developer-name (Bixby Sample Capsules)
   icon-asset (/images/bixby-logo.png)
   description ("A sample capsule to roll dice.")
