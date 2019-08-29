@@ -6,7 +6,7 @@
 
 ## Overview
 
-This capsule provides companion code to the Bixby [Quick Start Guide](https://bixbydevelopers.com/dev/docs/get-started/quick-start). The capsule demonstrates throwing dice. Throw any number of dice and choose how many sides the dice have. The capsule demonstrates use of [Concepts](https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-concepts) and [Actions](https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions).
+This capsule provides companion code to the Bixby [Quick Start Guide](https://bixbydevelopers.com/dev/docs/get-started/quick-start). The capsule simulates throwing dice. Throw any number of dice and choose how many sides the dice have. The capsule demonstrates use of [Concepts](https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-concepts) and [Actions](https://bixbydevelopers.com/dev/docs/dev-guide/developers/modeling.modeling-actions).
 
 **Note:** This capsule is meant to be used with the [Quick Start Guide](https://bixbydevelopers.com/dev/docs/get-started/quick-start), which teaches you how to add training. Therefore, you cannot use natural language initially. However, you can use the following intent in the Simulator to test the capsule out-of-the-box:
 
