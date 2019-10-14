@@ -1,0 +1,24 @@
+input-view {
+  match {
+    NumSidesConcept (this)
+  }
+
+  render {
+    form {
+      elements {
+        number-input {
+          id (numSides)
+          type (NumSidesConcept)
+        }
+      }
+      on-submit {
+        goal {
+          NumSidesConcept
+        }
+        value {
+          viv.core.FormElement(numSides)
+        }
+      }
+    }
+  }
+}
