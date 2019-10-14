@@ -1,0 +1,24 @@
+input-view {
+  match {
+    NumDiceConcept (this)
+  }
+
+  render {
+    form {
+      elements {
+        number-input {
+          id (numDice)
+          type (NumDiceConcept)
+        }
+      }
+      on-submit {
+        goal {
+          NumDiceConcept
+        }
+        value {
+          viv.core.FormElement(numDice)
+        }
+      }
+    }
+  }
+}
