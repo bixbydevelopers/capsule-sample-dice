@@ -14,4 +14,7 @@ capsule {
     no-filtering-with-validation
     modern-default-view-behavior
   }
+  store-sections {
+    section (GamesAndFun)
+  }
 }
