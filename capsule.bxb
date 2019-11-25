@@ -14,4 +14,10 @@ capsule {
     no-filtering-with-validation
     modern-default-view-behavior
   }
+  store-countries {
+    all
+  }
+  store-sections {
+    section (GamesAndFun)
+  }
 }
