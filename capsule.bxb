@@ -4,9 +4,13 @@ capsule {
   version (0.1.1)
   targets {
     target (bixby-mobile-en-US)
-    target (bixby-mobile-ko-KR){enabled (false)}
+    target (bixby-mobile-ko-KR) {
+      enabled (false)
+    }
   }
-  runtime-version (2)
+  runtime-version (2) {
+    js-runtime-version (2)
+  }
   store-countries {
     all
   }

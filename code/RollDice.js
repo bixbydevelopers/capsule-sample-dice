@@ -2,8 +2,7 @@
 // Rolls a dice given a number of sides and a number of dice
 
 // Main entry point
-module.exports.function = function rollDice(numDice, numSides) {
-
+export default function rollDice({ numDice, numSides }) {
   var sum = 0;
   var result = [];
 
@@ -16,6 +15,6 @@ module.exports.function = function rollDice(numDice, numSides) {
   // RollResult
   return {
     sum: sum, // required Sum
-    roll: result // required list Roll
-  }
+    roll: result, // required list Roll
+  };
 }
